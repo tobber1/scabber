@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
 .booyah-box {
   -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
   -webkit-box-shadow: 1px 1px 2px 0 #d0d0d0;
@@ -24,4 +26,10 @@ body {
   background:url('/assets/grey_wash_wall_@2X.png');
   border-radius: 0;
   box-shadow: 0px 5px 15px #1A1918;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #44F525;
+  font-family: 'almendraregular', sans-serif;
+  font-size:26px;
 }
